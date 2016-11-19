@@ -1,0 +1,1 @@
+All images in this folder (and sub-folders) will be targeted by the imagemin Grunt task.

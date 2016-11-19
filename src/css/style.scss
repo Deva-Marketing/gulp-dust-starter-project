@@ -1,0 +1,38 @@
+// ++++++++++++++++
+// IMPORT FRAMEWORK
+// ++++++++++++++++
+@import "foundation/foundation";
+//Put in the parameter (true) to enable flexbox mode.
+@include foundation-everything();
+
+// +++++++++++++
+// LOCAL IMPORTS
+// +++++++++++++
+@import "functions";
+@import "mixins";
+@import "variables";
+
+// ++++++++++++++++++
+// GENERIC BODY STYLE
+// ++++++++++++++++++
+body {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+
+}
+
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
