@@ -1,11 +1,11 @@
 {
-  "name": "leapfunction-dust-gulp",
+  "name": "deva-dust-gulp",
   "version": "0.0.1",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Yordan Lasonov <hello@leapfunction.com> (https://leapfunction.com/)",
+  "author": "Yordan Lasonov <yordan@deva-marketing.com> (https://deva-marketing.com/)",
   "license": "ISC",
   "main": "script.js",
   "devDependencies": {
